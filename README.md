@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @maumal-tec
+- 👋 Hi, I’m maumaltec
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning & programming c++ & phyton
-- 💞️ I’m looking to collaborate on project
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ..
+- 💞️ I’m looking to collaborate ..
+- 📫 How to reach me ..
 
 <!---
 maumal-tec/maumal-tec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
